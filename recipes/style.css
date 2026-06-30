@@ -1,0 +1,30 @@
+h2{
+color: aqua;
+text-decoration: underline wavy 4px deepskyblue;
+}
+#special{
+    color: blue;
+    text-decoration:underline wavy 2px greenyellow;    
+}
+h3{
+    color: aqua;
+    text-decoration:underline dashed 2px deepskyblue;
+   
+}
+.steps{
+    color: deepskyblue;
+}
+.sth{
+    color: deepskyblue;
+}
+#button{
+    background-color: deepskyblue;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
